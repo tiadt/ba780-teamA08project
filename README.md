@@ -4,6 +4,13 @@
 
 **Team members:** Susan Huang, Ingrid Felix, Ruining Shan, Tia Theseira, Kaiser Lu
 
+## Key Takeaway 
+Most of the Green Line B's unpredictability comes from its above-ground stretch on Commonwealth Ave, not from the weather. Rain on its own barely changes travel times. Public events are linked to much bigger slowdowns, and days with both rain and an event are the slowest of all.
+
+<img width="921" height="392" alt="Screenshot 2026-11-08 at 9 17 24 PM" src="https://github.com/user-attachments/assets/a0c3acef-053f-48df-a914-169f7a491ea4" />
+
+Above-ground trips take about twice as long as underground trips (30–32 vs. 14–15 min) in every condition. Weather and events change either section by less than 1.5 min.
+
 ## Overview
 The MBTA Green Line B Branch runs through the BU campus. Between Boston College and Kenmore it runs above ground, sharing Commonwealth Avenue with car traffic, and from Kenmore to Government Center it runs underground. We measured how precipitation, temperature, and public events affect the line's travel time and reliability, and which parts of the line are hit hardest. To capture two very different seasonal profiles, we compared **September 2025** (start of the semester and fall events) with **December 2025** (cold weather and holiday crowds).
 
